@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sridhar</h1>
-<h3 align="center">A passionate Full Stack developer from Chennai in India</h3>
+<h3 align="center">A passionate Full Stack developer & Graphic Designer from Chennai in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-sridhar&label=Profile%20views&color=0e75b6&style=flat" alt="developer-sridhar" /> </p>
 
@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [sridharportfolio.w3spaces.com](sridharportfolio.w3spaces.com)
 
-- 📫 How to reach me **sridhar.chandrasekar28@gmail.com**
+- 📫 How to reach me **programmer.sridhar@gmail.com**
 
-- 📄 Know about my experiences [sridharportfolio.w3spaces.com](sridharportfolio.w3spaces.com)
+- 📄 Know about my experiences [sridharsportfolio.vercel.app](sridharsportfolio.vercel.app)
 
 - ⚡ Fun fact **I am Smart Worker, Artist and Designer**
 
