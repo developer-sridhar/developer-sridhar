@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to self collaborate on [Artistic Design Project](https://github.com/developer-sridhar/First_MERN_Stack-Project)
 
-- 👨‍💻 All of my projects are available at [sridharportfolio.w3spaces.com](sridharportfolio.w3spaces.com)
+- 👨‍💻 All of my projects are available at [sridharportfolio.vercel.app](sridharportfolio.vercel.app)
 
-- 📝 I regularly write articles on [sridharportfolio.w3spaces.com](sridharportfolio.w3spaces.com)
+- 📝 I regularly write articles on [sridharportfolio.vercel.app](sridharportfolio.vercel.app)
 
 - 📫 How to reach me **programmer.sridhar@gmail.com**
 
-- 📄 Know about my experiences [sridharsportfolio.vercel.app](sridharsportfolio.vercel.app)
+- 📄 Know about my experiences [sridharportfolio.vercel.app](sridharportfolio.vercel.app)
 
 - ⚡ Fun fact **I am Smart Worker, Artist and Designer**
 
